@@ -1,0 +1,7 @@
+.vscode
+src/results/
+src/evaluation/results/
+*.png
+.DS_Store
+
+*.pyc
